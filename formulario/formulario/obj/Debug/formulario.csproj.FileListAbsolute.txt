@@ -1,0 +1,10 @@
+C:\Users\Proyecto\Desktop\RepoRafael\formlario\formulario\formulario\bin\Debug\formulario.exe.config
+C:\Users\Proyecto\Desktop\RepoRafael\formlario\formulario\formulario\bin\Debug\formulario.exe
+C:\Users\Proyecto\Desktop\RepoRafael\formlario\formulario\formulario\bin\Debug\formulario.pdb
+C:\Users\Proyecto\Desktop\RepoRafael\formlario\formulario\formulario\obj\Debug\formulario.Form1.resources
+C:\Users\Proyecto\Desktop\RepoRafael\formlario\formulario\formulario\obj\Debug\formulario.Properties.Resources.resources
+C:\Users\Proyecto\Desktop\RepoRafael\formlario\formulario\formulario\obj\Debug\formulario.csproj.GenerateResource.Cache
+C:\Users\Proyecto\Desktop\RepoRafael\formlario\formulario\formulario\obj\Debug\formulario.csproj.CoreCompileInputs.cache
+C:\Users\Proyecto\Desktop\RepoRafael\formlario\formulario\formulario\obj\Debug\formulario.exe
+C:\Users\Proyecto\Desktop\RepoRafael\formlario\formulario\formulario\obj\Debug\formulario.pdb
+C:\Users\Proyecto\Desktop\RepoRafael\formlario\formulario\formulario\obj\Debug\formulario.csprojResolveAssemblyReference.cache
